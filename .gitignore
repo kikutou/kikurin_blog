@@ -5,7 +5,7 @@
 *.sql
 
 # 設定ファイルを無視する
-#/wp-config.php
+/wp-config.php
 
 # phpstormの設定フォルダを無視する
 /.idea/
